@@ -1,6 +1,5 @@
 ## I'm Nikolai
 #### I'm currently studying for my AP in Computer Science.
-![I'm currently studying for my AP in Computer Science.](https://assets.skyfilabs.com/images/blog/20-best-c-programming-projects-for-beginners.webp)
 
 Currently living in Odense, Denmark.
 
