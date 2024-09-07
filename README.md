@@ -3,7 +3,7 @@
 
 Currently living in Odense, Denmark.
 
-Skills: C# / C / HTML / CI / CD
+Skills: C# / C / HTML / CI / CD / Postman / Docker / K8S / MSSQL
 
 - 🔭 I’m currently working on A file managing system for my internship. 
 - 🌱 I’m currently learning C 
