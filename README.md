@@ -5,9 +5,9 @@ Currently living in Odense, Denmark.
 
 Skills: C# / C / HTML / CI / CD / Postman / Docker / K8S / MSSQL
 
-- 🔭 I’m currently working on A file managing system for my internship.
+- 🔭 I’m currently working on a Switch & VLAN managing program for my employers internal Server solution.
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Python
 
 - 📫 How to reach me >> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolai-pedersen-80460b13b//)
 
