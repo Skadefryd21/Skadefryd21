@@ -1,5 +1,6 @@
 ## I'm Nikolai
-#### I'm currently studying for my AP in Computer Science.
+#### I have an AP diploma in Computer Science.
+#### I am currently studying for a BCs in Cyber Security
 
 Currently living in Odense, Denmark.
 
